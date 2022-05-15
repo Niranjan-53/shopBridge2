@@ -1,0 +1,5 @@
+Libraries used:
+ Bootstrap 5.2 beta
+ Used json server (npm install -g json-server) instead of mocks
+ didn't add node modules
+ Test cases are not covered due time constraint
